@@ -1,0 +1,59 @@
+
+.column {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+body{
+    background:#6d8b4d;
+    font-family: Baloo Tamma;
+    margin: auto;
+}
+
+
+#h01{ 
+   
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    
+    
+
+    color: #F8E4DD;
+
+}
+
+#date{   
+    
+    float: left;
+    
+
+}
+#time{  
+    float: right;
+
+}
+#container
+{
+width: 300px;
+height: 500px;
+border: solid 1px #000;
+position: relative;
+}
+
+#btn-seek{
+    background-color: #A18927;
+    
+}

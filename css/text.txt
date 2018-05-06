@@ -1,0 +1,148 @@
+
+#h01{ 
+   
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    
+    text-align: center;
+
+    color: #F8E4DD;
+
+}
+
+
+#control{
+    
+    height: 500;
+}
+
+#btn-seek{
+width: 102px;
+height: 63px;
+font-family: Baloo Tamma;
+font-size: 36px;
+text-align: center;
+}
+
+#date_bar{
+    font-size: 24px;
+    text-align: left;
+}
+
+#time_bar{
+    font-size: 24px;
+    text-align: right;
+}
+
+
+
+#F8E4DD hng intershinp Baloo Tamma 36
+
+
+#A18927 seeks button
+Time and date = 24px
+
+CSS
+position: absolute;
+width: 425px;
+height: 537px;
+
+background: url(IMG_20170717_002927.jpg), #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* HNG INTERNSHIP 4.0 */
+
+
+
+/* PROVIDES */
+
+position: absolute;
+width: 180px;
+height: 40px;
+
+font-family: Baloo Tamma;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #000000;
+
+/* Mentorship for Who */
+
+position: absolute;
+width: 335px;
+height: 63px;
+
+font-family: Baloo Tamma;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #000000;
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 137px;
+height: 43px;
+
+background: #A18927;
+mix-blend-mode: normal;
+
+
+/* SEEKS */
+
+position: absolute;
+width: 102px;
+height: 63px;
+
+font-family: Baloo Tamma;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #000000;
+
+/* Date 17.04.2018 */
+
+position: absolute;
+width: 203px;
+height: 47px;
+
+font-family: Baloo Tamma;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #000000;
+
+Non-Responsive image.
+Margin Top
+
+
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+
+TRying to correct the allignment by indivdual styling
+style="text-align: center;"
+design seek button and postfont
